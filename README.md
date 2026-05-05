@@ -21,3 +21,8 @@ Desarrollar un modelo de **Redes Neuronales Profundas (DNN)** capaz de predecir 
 * `figures/`: Gráficas de rendimiento, Matriz de Confusión y Curva ROC.
 * `data/`: Información sobre el dataset utilizado (UCI Machine Learning Repository).* Usen GitHub como portafolio académico
 * Integren experimentación, evaluación y visualización en un único flujo reproducible
+* ## 📺 Video de Presentación del Proyecto
+
+Haz clic en la imagen para ver la explicación detallada del modelo:
+
+[![Explicación del Predictor de Morosidad](https://img.youtube.com/vi/5A382bUS5Sw/0.jpg)](https://www.youtube.com/watch?v=TU_ID_DE_VIDEO)
